@@ -28,7 +28,7 @@ on:
       privacy:
         description: "Privacy status for uploads"
         required: false
-        default: "private"
+        default: "public"
         type: choice
         options:
           - private
